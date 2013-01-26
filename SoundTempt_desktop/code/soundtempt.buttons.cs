@@ -10,11 +10,13 @@ using System.Windows.Forms;
 
 namespace dsktp
 {
-    public partial class Form1 : Form
+    public partial class soundtempt
     {
-        public Form1()
+
+        private void exitButton_Click(object sender, EventArgs e)
         {
-            InitializeComponent();
+            this.Close();
         }
+
     }
 }
