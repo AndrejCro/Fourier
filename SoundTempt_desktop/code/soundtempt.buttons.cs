@@ -18,5 +18,14 @@ namespace dsktp
             this.Close();
         }
 
+        private void printButton_Click(object sender, EventArgs e)
+        {
+            saveFileDialog.Filter = "JPeg Image|*.jpg";
+            saveFileDialog.Title = "Spremi note";
+            saveFileDialog.FileName = "defaultSoundTempt";
+            saveFileDialog.ShowDialog();
+            SaveAsBitmap(notePanel, saveAdress);
+        }
+
     }
 }
