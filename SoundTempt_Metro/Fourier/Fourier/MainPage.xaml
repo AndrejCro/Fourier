@@ -39,8 +39,10 @@
     </Page.Resources>
     
     <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
-        <StackPanel HorizontalAlignment="Left" Height="582" Margin="36,141,0,0" VerticalAlignment="Top" Width="1306" Background="#FF18A618"/>
-        <Button x:Name="button1" Content="LOGIN" HorizontalAlignment="Left" Margin="114,445,0,0" VerticalAlignment="Top" Width="913" Height="74" FontSize="36" Background="#FF0F0F0F" BorderThickness="8"/>
+        <StackPanel x:Name ="stackpanel1" HorizontalAlignment="Left" Height="427" Margin="99,154,0,0" VerticalAlignment="Top" Width="999" Background="#FF475347">
+            <StackPanel Height="100"/>
+        </StackPanel>
+        <Button x:Name="button1" Content="LOGIN" HorizontalAlignment="Left" Margin="241,413,0,0" VerticalAlignment="Top" Width="713" Height="107" FontSize="36" Background="#FF0F0F0F" BorderThickness="8" Click="button1_Click"/>
         <TextBox x:Name ="textBox1" HorizontalAlignment="Left" Margin="253,229,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="53" Width="688" FontSize="36" Background="#FFC1BCBC" BorderBrush="Transparent"/>
         <PasswordBox x:Name ="textPass1" HorizontalAlignment="Left" Margin="253,304,0,0" VerticalAlignment="Top" Width="688" Height="53" Background="#FFC1BCBC"/>
     </Grid>

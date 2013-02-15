@@ -34,5 +34,11 @@ namespace Fourier
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
         }
+
+        private void button1_Click(object sender, RoutedEventArgs e)
+        {
+            stackpanel1.Height = 100;
+
+        }
     }
 }

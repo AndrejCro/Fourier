@@ -21,3 +21,26 @@ C:\Users\Antonio\Documents\Visual Studio 2012\Projects\Fourier\Fourier\obj\Debug
 C:\Users\Antonio\Documents\Visual Studio 2012\Projects\Fourier\Fourier\obj\Debug\pri.resfiles
 C:\Users\Antonio\Documents\Visual Studio 2012\Projects\Fourier\Fourier\obj\Debug\LanguageQualifiers.txt
 C:\Users\Antonio\Documents\Visual Studio 2012\Projects\Fourier\Fourier\obj\Debug\ProjectArchitectures.txt
+D:\Important stuff\Github\Fourier\SoundTempt_Metro\Fourier\Fourier\bin\Debug\Fourier.exe
+D:\Important stuff\Github\Fourier\SoundTempt_Metro\Fourier\Fourier\bin\Debug\Fourier.pdb
+D:\Important stuff\Github\Fourier\SoundTempt_Metro\Fourier\Fourier\bin\Debug\resources.pri
+D:\Important stuff\Github\Fourier\SoundTempt_Metro\Fourier\Fourier\bin\Debug\AppxManifest.xml
+D:\Important stuff\Github\Fourier\SoundTempt_Metro\Fourier\Fourier\bin\Debug\Fourier.build.appxrecipe
+D:\Important stuff\Github\Fourier\SoundTempt_Metro\Fourier\Fourier\obj\Debug\App.g.i.cs
+D:\Important stuff\Github\Fourier\SoundTempt_Metro\Fourier\Fourier\obj\Debug\App.g.cs
+D:\Important stuff\Github\Fourier\SoundTempt_Metro\Fourier\Fourier\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Important stuff\Github\Fourier\SoundTempt_Metro\Fourier\Fourier\obj\Debug\Common\StandardStyles.g.cs
+D:\Important stuff\Github\Fourier\SoundTempt_Metro\Fourier\Fourier\obj\Debug\MainPage.g.i.cs
+D:\Important stuff\Github\Fourier\SoundTempt_Metro\Fourier\Fourier\obj\Debug\MainPage.g.cs
+D:\Important stuff\Github\Fourier\SoundTempt_Metro\Fourier\Fourier\obj\Debug\XamlTypeInfo.g.cs
+D:\Important stuff\Github\Fourier\SoundTempt_Metro\Fourier\Fourier\obj\Debug\App.xaml
+D:\Important stuff\Github\Fourier\SoundTempt_Metro\Fourier\Fourier\obj\Debug\Common\StandardStyles.xaml
+D:\Important stuff\Github\Fourier\SoundTempt_Metro\Fourier\Fourier\obj\Debug\MainPage.xaml
+D:\Important stuff\Github\Fourier\SoundTempt_Metro\Fourier\Fourier\obj\Debug\Fourier.exe
+D:\Important stuff\Github\Fourier\SoundTempt_Metro\Fourier\Fourier\obj\Debug\Fourier.pdb
+D:\Important stuff\Github\Fourier\SoundTempt_Metro\Fourier\Fourier\obj\Debug\priconfig.xml
+D:\Important stuff\Github\Fourier\SoundTempt_Metro\Fourier\Fourier\obj\Debug\layout.resfiles
+D:\Important stuff\Github\Fourier\SoundTempt_Metro\Fourier\Fourier\obj\Debug\resources.resfiles
+D:\Important stuff\Github\Fourier\SoundTempt_Metro\Fourier\Fourier\obj\Debug\pri.resfiles
+D:\Important stuff\Github\Fourier\SoundTempt_Metro\Fourier\Fourier\obj\Debug\LanguageQualifiers.txt
+D:\Important stuff\Github\Fourier\SoundTempt_Metro\Fourier\Fourier\obj\Debug\ProjectArchitectures.txt
